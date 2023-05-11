@@ -19,4 +19,4 @@ let messageParagraph = document.getElementById("message");
 nameParagraph.innerHTML = "Name: " + userName;
 lastNameParagraph.innerHTML = "Last Name: " + userLastName;
 favoriteColorParagraph.innerHTML = "Favorite Color: " + favoriteColor;
-messageParagraph.innerHTML = "Password: " + message;
+messageParagraph.innerHTML = message;
